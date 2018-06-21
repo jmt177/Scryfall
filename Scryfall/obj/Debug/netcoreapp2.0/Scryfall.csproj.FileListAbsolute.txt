@@ -1,0 +1,8 @@
+C:\git\Scryfall\Scryfall\bin\Debug\netcoreapp2.0\Scryfall.deps.json
+C:\git\Scryfall\Scryfall\bin\Debug\netcoreapp2.0\Scryfall.runtimeconfig.json
+C:\git\Scryfall\Scryfall\bin\Debug\netcoreapp2.0\Scryfall.runtimeconfig.dev.json
+C:\git\Scryfall\Scryfall\bin\Debug\netcoreapp2.0\Scryfall.dll
+C:\git\Scryfall\Scryfall\obj\Debug\netcoreapp2.0\Scryfall.csprojAssemblyReference.cache
+C:\git\Scryfall\Scryfall\obj\Debug\netcoreapp2.0\Scryfall.csproj.CoreCompileInputs.cache
+C:\git\Scryfall\Scryfall\obj\Debug\netcoreapp2.0\Scryfall.AssemblyInfoInputs.cache
+C:\git\Scryfall\Scryfall\obj\Debug\netcoreapp2.0\Scryfall.AssemblyInfo.cs
