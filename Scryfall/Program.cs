@@ -6,7 +6,15 @@ namespace Scryfall
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DoTheStuff();
+        }
+
+        public static async void DoTheStuff()
+        {
+            var scryfallClient = new ScryfallClient();
+
+            var cardsResponse = await scryfallClient.GetRandomCard();
         }
     }
 }
+ 

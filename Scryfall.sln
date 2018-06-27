@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scryfall", "Scryfall\Scryfall.csproj", "{DF2D5A29-94C2-4DE0-8E87-A5A669EF3F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scryfall", "Scryfall\Scryfall.csproj", "{DF2D5A29-94C2-4DE0-8E87-A5A669EF3F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScryfallApi", "ScryfallApi\ScryfallApi.csproj", "{1C05EB41-3B44-4639-BC37-AC5401744763}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DF2D5A29-94C2-4DE0-8E87-A5A669EF3F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF2D5A29-94C2-4DE0-8E87-A5A669EF3F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF2D5A29-94C2-4DE0-8E87-A5A669EF3F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C05EB41-3B44-4639-BC37-AC5401744763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C05EB41-3B44-4639-BC37-AC5401744763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C05EB41-3B44-4639-BC37-AC5401744763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C05EB41-3B44-4639-BC37-AC5401744763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

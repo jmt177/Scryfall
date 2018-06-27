@@ -82,7 +82,7 @@ namespace Scryfall
         public ImageUris ImageUris { get; set; }
         [JsonProperty(PropertyName = "mana_cost")]
         public string ManaCost { get; set; }
-        public int Cmc { get; set; }
+        public decimal Cmc { get; set; }
         [JsonProperty(PropertyName = "type_line")]
         public string TypeLine { get; set; }
         [JsonProperty(PropertyName = "oracle_text")]
